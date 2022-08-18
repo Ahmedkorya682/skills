@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    font-size: 50px;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+
+p{
+
+    text-align: center;
+    color: blue;
+    font-size: 25;
+}
+
+
+span{
+    color: red;
+}
+
+h2{
+    text-align: center;
+    margin-top: 50px;
+    color: red;
+    font-size: 40px;
+}
+
+li{
+    color: red;
+    font-size: 30;
+}
+.center{
+    margin-left: 50px;
+
+   
+}
+
+.ddd{
+    opacity: 0;
+}
